@@ -167,7 +167,6 @@
 1. add(element), delete(element)의 원리와 사용법에 대해 학습하고 숙지하세요
 2. has(), clear(), size(), values())의 원리와 사용법에 대해 학습하고 숙지하세요.
 3. Sets의 중요한 기능들인 Union, Intersection, Difference, Subset에 대해 Notion에 페이지를 만들어 정리하고, 숙지하세요.
-   정리할 Notion 페이지 >> https://www.notion.so/beingbetterone/Programming-Language-Frameworks-c9dda106572d496da0966f179328d529
 
 **II. Sets Basic 1**
 1. 다음의 프로세스를 수행하는 function sizeLagacy()를 작성하세요.
@@ -311,8 +310,7 @@
       {12 => [#Aethelwulf: aethelwulf@email.com]},
       {13 => [#Sargeras: sargeras@email.com]} 
 **II. Database**
-  1.  다음을 이해하고 정리하세요. 
-  * Notion https://www.notion.so/beingbetterone/Programming-Language-Frameworks-c9dda106572d496da0966f179328d529
+  1.  다음을 이해하고 정리하세요.
   - DB Table 
   - DB Key 
   - DB Data Field
